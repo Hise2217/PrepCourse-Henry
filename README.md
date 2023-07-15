@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Repositorio de prueba para curso soy Henry
+Repositorio de prueba, para clonar, para curso soy Henry.
